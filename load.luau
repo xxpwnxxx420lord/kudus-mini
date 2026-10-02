@@ -1,5 +1,5 @@
 -- // would use wax (lune (Rokit + rojo) plugin or wtv) but im too bothered to set it up here
-local games: string = "https://raw.githubusercontent.com/xxpwnxxx420lord/kudus-mini/main/games/"
+local games: string = "https://github.com/xxpwnxxx420lord/kudus-mini/blob/master/games/"
 
 -- // i kinda lied with the variable name but its fineeeeeeeeeeeeee
 local gameID: number = game.PlaceId
