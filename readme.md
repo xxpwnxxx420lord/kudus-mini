@@ -4,3 +4,8 @@ barely any updates.
 
 # WHY USE KUDUS MINI?
 Its open source, no key, no logging alternative, its still pretty overpowered most scripts will have a auto farm
+
+# SCRIPT:
+```lua
+loadstring(game:HttpGet("https://github.com/xxpwnxxx420lord/kudus-mini/blob/master/load.luau?raw=true", true))()
+```

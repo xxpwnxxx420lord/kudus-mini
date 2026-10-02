@@ -8,7 +8,7 @@ local req = (http and http.request) or http_request or request
 
 -- // cool loader stuff now
 local res = req({
-    Url = games .. tostring(gameID),
+    Url = games .. tostring(gameID)..".luau?raw=true",
     Method = "GET"
 })
 
